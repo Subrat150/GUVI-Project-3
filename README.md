@@ -1,7 +1,7 @@
 # GUVI-Project-3
-🏙 Construction Permit Data Analysis
+# 🏙 Construction Permit Data Analysis
 
-📌 Project Overview
+# 📌 Project Overview
 
 This project analyzes the Construction Building Permits dataset using Power BI. The goal is to clean, explore, and visualize permit data to uncover meaningful insights about construction activities.
 
