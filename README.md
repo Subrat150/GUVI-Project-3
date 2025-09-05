@@ -20,9 +20,6 @@ Extracted Year, Month, Quarter from Issue Date
 
 Standardized categories (Residential, Commercial, etc.)
 
-Reduced to ~20 meaningful fields for analysis
-
-
 
 # Key Columns Retained:
 
