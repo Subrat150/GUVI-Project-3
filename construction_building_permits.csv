@@ -1,0 +1,301 @@
+Application No,Applicant Name,Permit Type,Permit Status,Category,Region,Issue Date,Permit Value ($)
+AP100000,Patterson-Ohare Jodi,Construction,Application Accepted,Institutional,Queen Anne,01-01-2016,6473388
+AP100001,Johnson Richard,Demolition,Application Rejected,Institutional,South Lake Union,08-01-2016,6600634
+AP100002,Craft Kathy,Construction,Application Accepted,Single Family/Duplex,Queen Anne,15-01-2016,4354572
+AP100003,Bartolomew Craig,Renovation,Application Rejected,Industrial,Downtown,22-01-2016,2284489
+AP100004,Bartolomew Craig,Demolition,Application Pending,Single Family/Duplex,Downtown,29-01-2016,9574682
+AP100005,Bengl Andy,Repair,Application Accepted,Institutional,Ballard,05-02-2016,7254212
+AP100006,Patterson-Ohare Jodi,Demolition,Application Rejected,Single Family/Duplex,Fremont,12-02-2016,9678519
+AP100007,Patterson-Ohare Jodi,Construction,Application Pending,Multifamily,Capitol Hill,19-02-2016,4522471
+AP100008,Smith Laura,Renovation,Application Pending,Multifamily,Downtown,26-02-2016,4573669
+AP100009,Johnson Richard,Renovation,Application Rejected,Institutional,Capitol Hill,04-03-2016,7454852
+AP100010,Johnson Richard,Construction,Application Rejected,Institutional,Ballard,11-03-2016,5031505
+AP100011,Patterson-Ohare Jodi,Renovation,Application Pending,Single Family/Duplex,Fremont,18-03-2016,1816891
+AP100012,Bartolomew Craig,Demolition,Application Pending,Single Family/Duplex,South Lake Union,25-03-2016,4571373
+AP100013,Bartolomew Craig,Demolition,Application Rejected,Multifamily,Fremont,01-04-2016,6069877
+AP100014,Johnson Richard,Construction,Application Rejected,Industrial,Fremont,08-04-2016,3394769
+AP100015,Bartolomew Craig,Renovation,Application Pending,Industrial,South Lake Union,15-04-2016,9230351
+AP100016,Smith Laura,Repair,Application Pending,Institutional,Ballard,22-04-2016,153355
+AP100017,Bartolomew Craig,Demolition,Application Rejected,Single Family/Duplex,Queen Anne,29-04-2016,1312752
+AP100018,Chen Wei,Demolition,Application Rejected,Industrial,Fremont,06-05-2016,9834633
+AP100019,Craft Kathy,Demolition,Application Pending,Single Family/Duplex,Fremont,13-05-2016,5714789
+AP100020,Johnson Richard,Demolition,Application Rejected,Commercial,Ballard,20-05-2016,9745979
+AP100021,Bengl Andy,Repair,Application Rejected,Multifamily,Queen Anne,27-05-2016,9355648
+AP100022,Smith Laura,Construction,Application Rejected,Single Family/Duplex,Fremont,03-06-2016,5793066
+AP100023,Omark John,Demolition,Application Rejected,Single Family/Duplex,Fremont,10-06-2016,6163790
+AP100024,Craft Kathy,Renovation,Application Accepted,Single Family/Duplex,Queen Anne,17-06-2016,4771339
+AP100025,Bengl Andy,Repair,Application Accepted,Industrial,Downtown,24-06-2016,9939550
+AP100026,Bartolomew Craig,Demolition,Application Pending,Single Family/Duplex,West Seattle,01-07-2016,3325709
+AP100027,Omark John,Renovation,Application Accepted,Commercial,South Lake Union,08-07-2016,134654
+AP100028,Patterson-Ohare Jodi,Demolition,Application Rejected,Industrial,Downtown,15-07-2016,5197581
+AP100029,Patterson-Ohare Jodi,Construction,Application Accepted,Institutional,West Seattle,22-07-2016,2004354
+AP100030,Smith Laura,Repair,Application Pending,Institutional,South Lake Union,29-07-2016,8292680
+AP100031,Patterson-Ohare Jodi,Construction,Application Pending,Multifamily,South Lake Union,05-08-2016,2478388
+AP100032,Omark John,Repair,Application Pending,Commercial,West Seattle,12-08-2016,8966786
+AP100033,Omark John,Demolition,Application Accepted,Single Family/Duplex,Fremont,19-08-2016,2713046
+AP100034,Craft Kathy,Demolition,Application Accepted,Commercial,South Lake Union,26-08-2016,5549720
+AP100035,Johnson Richard,Repair,Application Accepted,Institutional,West Seattle,02-09-2016,6690913
+AP100036,Chen Wei,Renovation,Application Pending,Single Family/Duplex,Capitol Hill,09-09-2016,3466664
+AP100037,Patterson-Ohare Jodi,Renovation,Application Rejected,Commercial,Queen Anne,16-09-2016,3435659
+AP100038,Smith Laura,Demolition,Application Rejected,Industrial,Queen Anne,23-09-2016,3435357
+AP100039,Patterson-Ohare Jodi,Demolition,Application Pending,Single Family/Duplex,Capitol Hill,30-09-2016,1515689
+AP100040,Craft Kathy,Construction,Application Pending,Industrial,Queen Anne,07-10-2016,118148
+AP100041,Omark John,Demolition,Application Pending,Commercial,Ballard,14-10-2016,1875665
+AP100042,Bartolomew Craig,Repair,Application Pending,Single Family/Duplex,West Seattle,21-10-2016,2795683
+AP100043,Patterson-Ohare Jodi,Renovation,Application Rejected,Multifamily,Queen Anne,28-10-2016,4106518
+AP100044,Johnson Richard,Renovation,Application Accepted,Multifamily,Queen Anne,04-11-2016,2719995
+AP100045,Bartolomew Craig,Construction,Application Accepted,Institutional,Queen Anne,11-11-2016,5047895
+AP100046,Craft Kathy,Renovation,Application Rejected,Single Family/Duplex,South Lake Union,18-11-2016,6447986
+AP100047,Patterson-Ohare Jodi,Renovation,Application Accepted,Commercial,Downtown,25-11-2016,1920928
+AP100048,Bartolomew Craig,Repair,Application Rejected,Multifamily,Ballard,02-12-2016,4205299
+AP100049,Patterson-Ohare Jodi,Renovation,Application Accepted,Institutional,Queen Anne,09-12-2016,6299859
+AP100050,Smith Laura,Construction,Application Rejected,Single Family/Duplex,Ballard,16-12-2016,2355413
+AP100051,Craft Kathy,Construction,Application Accepted,Multifamily,South Lake Union,23-12-2016,3960197
+AP100052,Chen Wei,Renovation,Application Pending,Single Family/Duplex,Ballard,30-12-2016,5608019
+AP100053,Omark John,Demolition,Application Pending,Institutional,Ballard,06-01-2017,5464709
+AP100054,Bengl Andy,Renovation,Application Accepted,Commercial,Capitol Hill,13-01-2017,321836
+AP100055,Omark John,Construction,Application Rejected,Institutional,South Lake Union,20-01-2017,3634702
+AP100056,Omark John,Construction,Application Accepted,Commercial,Queen Anne,27-01-2017,7331369
+AP100057,Bartolomew Craig,Repair,Application Accepted,Industrial,Downtown,03-02-2017,2349435
+AP100058,Craft Kathy,Renovation,Application Pending,Multifamily,Downtown,10-02-2017,8635377
+AP100059,Patterson-Ohare Jodi,Renovation,Application Rejected,Industrial,West Seattle,17-02-2017,2708505
+AP100060,Bengl Andy,Repair,Application Pending,Commercial,Downtown,24-02-2017,1321741
+AP100061,Bartolomew Craig,Construction,Application Accepted,Single Family/Duplex,Downtown,03-03-2017,3819315
+AP100062,Bengl Andy,Repair,Application Pending,Commercial,Queen Anne,10-03-2017,1096797
+AP100063,Chen Wei,Demolition,Application Rejected,Commercial,Downtown,17-03-2017,3097262
+AP100064,Smith Laura,Renovation,Application Accepted,Single Family/Duplex,South Lake Union,24-03-2017,614685
+AP100065,Craft Kathy,Construction,Application Accepted,Industrial,South Lake Union,31-03-2017,2929190
+AP100066,Bartolomew Craig,Repair,Application Pending,Multifamily,Ballard,07-04-2017,5646411
+AP100067,Omark John,Construction,Application Rejected,Commercial,West Seattle,14-04-2017,9750344
+AP100068,Johnson Richard,Demolition,Application Rejected,Commercial,Capitol Hill,21-04-2017,1057293
+AP100069,Bartolomew Craig,Renovation,Application Rejected,Multifamily,Fremont,28-04-2017,4824183
+AP100070,Johnson Richard,Repair,Application Rejected,Commercial,Downtown,05-05-2017,3416612
+AP100071,Omark John,Construction,Application Rejected,Multifamily,Fremont,12-05-2017,8461855
+AP100072,Smith Laura,Renovation,Application Accepted,Multifamily,Fremont,19-05-2017,5317180
+AP100073,Craft Kathy,Renovation,Application Accepted,Multifamily,Fremont,26-05-2017,7857313
+AP100074,Patterson-Ohare Jodi,Construction,Application Rejected,Single Family/Duplex,Ballard,02-06-2017,2754238
+AP100075,Bartolomew Craig,Renovation,Application Rejected,Industrial,South Lake Union,09-06-2017,2680708
+AP100076,Omark John,Renovation,Application Accepted,Industrial,Downtown,16-06-2017,3544679
+AP100077,Bartolomew Craig,Repair,Application Accepted,Institutional,Queen Anne,23-06-2017,5567209
+AP100078,Chen Wei,Renovation,Application Rejected,Single Family/Duplex,Ballard,30-06-2017,1817640
+AP100079,Smith Laura,Repair,Application Rejected,Institutional,West Seattle,07-07-2017,6773771
+AP100080,Chen Wei,Renovation,Application Accepted,Industrial,South Lake Union,14-07-2017,1335160
+AP100081,Bengl Andy,Demolition,Application Pending,Industrial,West Seattle,21-07-2017,6130526
+AP100082,Craft Kathy,Demolition,Application Pending,Industrial,Queen Anne,28-07-2017,5223036
+AP100083,Bengl Andy,Repair,Application Pending,Commercial,West Seattle,04-08-2017,1475472
+AP100084,Bartolomew Craig,Repair,Application Accepted,Institutional,South Lake Union,11-08-2017,98984
+AP100085,Craft Kathy,Demolition,Application Accepted,Single Family/Duplex,Downtown,18-08-2017,6606168
+AP100086,Smith Laura,Renovation,Application Accepted,Institutional,Ballard,25-08-2017,1554384
+AP100087,Smith Laura,Repair,Application Pending,Industrial,Fremont,01-09-2017,2280919
+AP100088,Omark John,Construction,Application Rejected,Single Family/Duplex,Ballard,08-09-2017,6990119
+AP100089,Bartolomew Craig,Renovation,Application Accepted,Institutional,Ballard,15-09-2017,1787095
+AP100090,Bengl Andy,Renovation,Application Accepted,Industrial,Downtown,22-09-2017,4830450
+AP100091,Chen Wei,Demolition,Application Accepted,Industrial,Fremont,29-09-2017,7519344
+AP100092,Patterson-Ohare Jodi,Repair,Application Pending,Single Family/Duplex,Fremont,06-10-2017,2159818
+AP100093,Johnson Richard,Renovation,Application Rejected,Multifamily,Capitol Hill,13-10-2017,2281785
+AP100094,Patterson-Ohare Jodi,Repair,Application Pending,Single Family/Duplex,Capitol Hill,20-10-2017,3903339
+AP100095,Bengl Andy,Repair,Application Pending,Multifamily,South Lake Union,27-10-2017,9517719
+AP100096,Bengl Andy,Repair,Application Pending,Commercial,Queen Anne,03-11-2017,1046107
+AP100097,Smith Laura,Demolition,Application Accepted,Single Family/Duplex,Capitol Hill,10-11-2017,7180144
+AP100098,Patterson-Ohare Jodi,Repair,Application Pending,Multifamily,West Seattle,17-11-2017,4595583
+AP100099,Smith Laura,Demolition,Application Rejected,Institutional,Downtown,24-11-2017,3797389
+AP100100,Smith Laura,Construction,Application Rejected,Industrial,Ballard,01-12-2017,4192807
+AP100101,Chen Wei,Renovation,Application Rejected,Commercial,West Seattle,08-12-2017,8038004
+AP100102,Craft Kathy,Renovation,Application Rejected,Single Family/Duplex,Fremont,15-12-2017,6295035
+AP100103,Johnson Richard,Construction,Application Pending,Multifamily,Ballard,22-12-2017,3652279
+AP100104,Patterson-Ohare Jodi,Demolition,Application Rejected,Institutional,Downtown,29-12-2017,5565989
+AP100105,Craft Kathy,Renovation,Application Rejected,Multifamily,West Seattle,05-01-2018,2171690
+AP100106,Omark John,Demolition,Application Pending,Single Family/Duplex,Ballard,12-01-2018,541234
+AP100107,Patterson-Ohare Jodi,Demolition,Application Pending,Multifamily,Fremont,19-01-2018,9959709
+AP100108,Craft Kathy,Demolition,Application Accepted,Single Family/Duplex,Capitol Hill,26-01-2018,5451218
+AP100109,Smith Laura,Construction,Application Pending,Multifamily,West Seattle,02-02-2018,6964550
+AP100110,Bengl Andy,Construction,Application Pending,Industrial,Queen Anne,09-02-2018,6217294
+AP100111,Chen Wei,Demolition,Application Accepted,Single Family/Duplex,West Seattle,16-02-2018,9336029
+AP100112,Johnson Richard,Repair,Application Accepted,Single Family/Duplex,Fremont,23-02-2018,6956726
+AP100113,Craft Kathy,Construction,Application Pending,Commercial,West Seattle,02-03-2018,5938794
+AP100114,Bengl Andy,Repair,Application Accepted,Industrial,West Seattle,09-03-2018,7608158
+AP100115,Patterson-Ohare Jodi,Repair,Application Rejected,Single Family/Duplex,Fremont,16-03-2018,6560425
+AP100116,Craft Kathy,Demolition,Application Pending,Institutional,Fremont,23-03-2018,8561017
+AP100117,Bartolomew Craig,Repair,Application Accepted,Multifamily,South Lake Union,30-03-2018,7937739
+AP100118,Bengl Andy,Repair,Application Accepted,Institutional,South Lake Union,06-04-2018,819598
+AP100119,Omark John,Repair,Application Accepted,Multifamily,Fremont,13-04-2018,5342895
+AP100120,Bengl Andy,Demolition,Application Accepted,Multifamily,Downtown,20-04-2018,8021379
+AP100121,Johnson Richard,Demolition,Application Pending,Commercial,Fremont,27-04-2018,3381068
+AP100122,Omark John,Construction,Application Accepted,Single Family/Duplex,South Lake Union,04-05-2018,3306415
+AP100123,Chen Wei,Construction,Application Accepted,Multifamily,West Seattle,11-05-2018,924371
+AP100124,Johnson Richard,Repair,Application Accepted,Commercial,South Lake Union,18-05-2018,5704237
+AP100125,Patterson-Ohare Jodi,Demolition,Application Rejected,Institutional,Ballard,25-05-2018,1023548
+AP100126,Omark John,Demolition,Application Rejected,Commercial,Downtown,01-06-2018,3394014
+AP100127,Craft Kathy,Repair,Application Pending,Institutional,Capitol Hill,08-06-2018,7114746
+AP100128,Bartolomew Craig,Construction,Application Pending,Single Family/Duplex,Ballard,15-06-2018,9652083
+AP100129,Johnson Richard,Demolition,Application Rejected,Multifamily,South Lake Union,22-06-2018,6266204
+AP100130,Bartolomew Craig,Construction,Application Rejected,Industrial,West Seattle,29-06-2018,5243542
+AP100131,Patterson-Ohare Jodi,Repair,Application Accepted,Institutional,Ballard,06-07-2018,3009034
+AP100132,Patterson-Ohare Jodi,Demolition,Application Accepted,Multifamily,Ballard,13-07-2018,4624293
+AP100133,Chen Wei,Repair,Application Rejected,Industrial,Ballard,20-07-2018,6756971
+AP100134,Patterson-Ohare Jodi,Renovation,Application Pending,Industrial,Downtown,27-07-2018,93585
+AP100135,Bengl Andy,Repair,Application Rejected,Institutional,Capitol Hill,03-08-2018,2589448
+AP100136,Bengl Andy,Repair,Application Pending,Multifamily,West Seattle,10-08-2018,159556
+AP100137,Chen Wei,Repair,Application Rejected,Industrial,Capitol Hill,17-08-2018,1625557
+AP100138,Bengl Andy,Demolition,Application Accepted,Commercial,Fremont,24-08-2018,8356461
+AP100139,Craft Kathy,Repair,Application Pending,Commercial,South Lake Union,31-08-2018,2059021
+AP100140,Smith Laura,Repair,Application Accepted,Multifamily,Queen Anne,07-09-2018,1251482
+AP100141,Bartolomew Craig,Renovation,Application Rejected,Single Family/Duplex,Downtown,14-09-2018,592335
+AP100142,Bartolomew Craig,Demolition,Application Pending,Commercial,Capitol Hill,21-09-2018,4320070
+AP100143,Craft Kathy,Renovation,Application Pending,Institutional,South Lake Union,28-09-2018,6750379
+AP100144,Smith Laura,Repair,Application Pending,Multifamily,South Lake Union,05-10-2018,3610920
+AP100145,Omark John,Demolition,Application Accepted,Industrial,Downtown,12-10-2018,6910006
+AP100146,Chen Wei,Renovation,Application Rejected,Commercial,Downtown,19-10-2018,2534413
+AP100147,Chen Wei,Repair,Application Accepted,Multifamily,South Lake Union,26-10-2018,2957360
+AP100148,Patterson-Ohare Jodi,Construction,Application Pending,Multifamily,Fremont,02-11-2018,5945544
+AP100149,Bartolomew Craig,Renovation,Application Accepted,Single Family/Duplex,Capitol Hill,09-11-2018,5747469
+AP100150,Bartolomew Craig,Demolition,Application Pending,Industrial,Queen Anne,16-11-2018,2285000
+AP100151,Patterson-Ohare Jodi,Renovation,Application Accepted,Industrial,Queen Anne,23-11-2018,6958531
+AP100152,Omark John,Renovation,Application Rejected,Industrial,Queen Anne,30-11-2018,4372252
+AP100153,Johnson Richard,Renovation,Application Accepted,Institutional,Ballard,07-12-2018,5872184
+AP100154,Bartolomew Craig,Construction,Application Accepted,Multifamily,Capitol Hill,14-12-2018,452690
+AP100155,Bartolomew Craig,Demolition,Application Accepted,Institutional,Ballard,21-12-2018,2598421
+AP100156,Johnson Richard,Demolition,Application Accepted,Institutional,Ballard,28-12-2018,2004109
+AP100157,Patterson-Ohare Jodi,Demolition,Application Rejected,Multifamily,South Lake Union,04-01-2019,4472880
+AP100158,Johnson Richard,Repair,Application Pending,Industrial,Ballard,11-01-2019,7255547
+AP100159,Bartolomew Craig,Demolition,Application Pending,Multifamily,West Seattle,18-01-2019,8373735
+AP100160,Patterson-Ohare Jodi,Demolition,Application Pending,Single Family/Duplex,Fremont,25-01-2019,6507294
+AP100161,Johnson Richard,Construction,Application Rejected,Multifamily,Fremont,01-02-2019,1434250
+AP100162,Omark John,Repair,Application Rejected,Multifamily,Downtown,08-02-2019,111087
+AP100163,Patterson-Ohare Jodi,Repair,Application Accepted,Commercial,Downtown,15-02-2019,6459907
+AP100164,Bartolomew Craig,Renovation,Application Rejected,Single Family/Duplex,Capitol Hill,22-02-2019,1546176
+AP100165,Craft Kathy,Repair,Application Pending,Commercial,Capitol Hill,01-03-2019,89353
+AP100166,Chen Wei,Repair,Application Rejected,Industrial,West Seattle,08-03-2019,6534531
+AP100167,Bartolomew Craig,Construction,Application Pending,Industrial,Fremont,15-03-2019,3410011
+AP100168,Bengl Andy,Demolition,Application Rejected,Single Family/Duplex,Downtown,22-03-2019,7704909
+AP100169,Chen Wei,Repair,Application Rejected,Institutional,South Lake Union,29-03-2019,4309622
+AP100170,Bartolomew Craig,Repair,Application Pending,Multifamily,Downtown,05-04-2019,5009617
+AP100171,Chen Wei,Construction,Application Pending,Commercial,Ballard,12-04-2019,5775570
+AP100172,Smith Laura,Repair,Application Rejected,Single Family/Duplex,Queen Anne,19-04-2019,466880
+AP100173,Bartolomew Craig,Repair,Application Rejected,Commercial,South Lake Union,26-04-2019,7122695
+AP100174,Patterson-Ohare Jodi,Construction,Application Accepted,Multifamily,Queen Anne,03-05-2019,7483296
+AP100175,Patterson-Ohare Jodi,Renovation,Application Pending,Institutional,Queen Anne,10-05-2019,5015050
+AP100176,Smith Laura,Renovation,Application Accepted,Commercial,Fremont,17-05-2019,863168
+AP100177,Omark John,Repair,Application Rejected,Single Family/Duplex,Queen Anne,24-05-2019,275281
+AP100178,Smith Laura,Repair,Application Pending,Multifamily,Queen Anne,31-05-2019,3832875
+AP100179,Smith Laura,Demolition,Application Rejected,Multifamily,Ballard,07-06-2019,3045765
+AP100180,Chen Wei,Repair,Application Pending,Institutional,Capitol Hill,14-06-2019,7784102
+AP100181,Johnson Richard,Demolition,Application Rejected,Single Family/Duplex,West Seattle,21-06-2019,5645108
+AP100182,Patterson-Ohare Jodi,Renovation,Application Accepted,Multifamily,Fremont,28-06-2019,5724719
+AP100183,Johnson Richard,Repair,Application Accepted,Commercial,Downtown,05-07-2019,8708144
+AP100184,Smith Laura,Repair,Application Accepted,Industrial,Ballard,12-07-2019,6659280
+AP100185,Omark John,Construction,Application Pending,Single Family/Duplex,Queen Anne,19-07-2019,5550306
+AP100186,Patterson-Ohare Jodi,Repair,Application Pending,Commercial,Downtown,26-07-2019,4422093
+AP100187,Bartolomew Craig,Renovation,Application Pending,Institutional,Ballard,02-08-2019,1611729
+AP100188,Bartolomew Craig,Repair,Application Accepted,Institutional,South Lake Union,09-08-2019,5081595
+AP100189,Bartolomew Craig,Demolition,Application Pending,Multifamily,South Lake Union,16-08-2019,5528047
+AP100190,Chen Wei,Repair,Application Rejected,Institutional,Fremont,23-08-2019,9120277
+AP100191,Bengl Andy,Demolition,Application Pending,Industrial,Queen Anne,30-08-2019,1169043
+AP100192,Smith Laura,Construction,Application Accepted,Commercial,Fremont,06-09-2019,7153230
+AP100193,Bengl Andy,Repair,Application Accepted,Single Family/Duplex,South Lake Union,13-09-2019,2608231
+AP100194,Craft Kathy,Construction,Application Rejected,Multifamily,Ballard,20-09-2019,6709908
+AP100195,Chen Wei,Construction,Application Pending,Single Family/Duplex,Downtown,27-09-2019,3130389
+AP100196,Bartolomew Craig,Repair,Application Pending,Commercial,Capitol Hill,04-10-2019,1711909
+AP100197,Patterson-Ohare Jodi,Demolition,Application Rejected,Industrial,Queen Anne,11-10-2019,2706138
+AP100198,Chen Wei,Repair,Application Rejected,Commercial,Fremont,18-10-2019,160078
+AP100199,Patterson-Ohare Jodi,Demolition,Application Accepted,Commercial,Downtown,25-10-2019,1965631
+AP100200,Johnson Richard,Construction,Application Pending,Multifamily,Downtown,01-11-2019,6364127
+AP100201,Johnson Richard,Renovation,Application Rejected,Single Family/Duplex,Capitol Hill,08-11-2019,9842712
+AP100202,Patterson-Ohare Jodi,Repair,Application Pending,Commercial,Ballard,15-11-2019,2058187
+AP100203,Bartolomew Craig,Renovation,Application Rejected,Commercial,Capitol Hill,22-11-2019,1709066
+AP100204,Bengl Andy,Demolition,Application Accepted,Industrial,West Seattle,29-11-2019,2198815
+AP100205,Smith Laura,Repair,Application Rejected,Institutional,Capitol Hill,06-12-2019,7405740
+AP100206,Chen Wei,Renovation,Application Rejected,Industrial,West Seattle,13-12-2019,4556259
+AP100207,Chen Wei,Renovation,Application Rejected,Single Family/Duplex,Ballard,20-12-2019,7523915
+AP100208,Bartolomew Craig,Repair,Application Rejected,Single Family/Duplex,Ballard,27-12-2019,7708426
+AP100209,Smith Laura,Renovation,Application Rejected,Multifamily,Ballard,03-01-2020,6454003
+AP100210,Johnson Richard,Repair,Application Pending,Institutional,Downtown,10-01-2020,4185314
+AP100211,Bengl Andy,Renovation,Application Accepted,Single Family/Duplex,Downtown,17-01-2020,960681
+AP100212,Smith Laura,Construction,Application Accepted,Institutional,Queen Anne,24-01-2020,1657618
+AP100213,Johnson Richard,Repair,Application Rejected,Industrial,South Lake Union,31-01-2020,3946830
+AP100214,Smith Laura,Construction,Application Rejected,Single Family/Duplex,Queen Anne,07-02-2020,4386787
+AP100215,Craft Kathy,Construction,Application Pending,Commercial,Capitol Hill,14-02-2020,2805423
+AP100216,Chen Wei,Renovation,Application Rejected,Single Family/Duplex,Capitol Hill,21-02-2020,121295
+AP100217,Craft Kathy,Demolition,Application Rejected,Institutional,Queen Anne,28-02-2020,9182582
+AP100218,Smith Laura,Construction,Application Pending,Single Family/Duplex,Fremont,06-03-2020,7663287
+AP100219,Chen Wei,Construction,Application Rejected,Multifamily,South Lake Union,13-03-2020,3495376
+AP100220,Bengl Andy,Construction,Application Pending,Commercial,Capitol Hill,20-03-2020,5301035
+AP100221,Bartolomew Craig,Demolition,Application Accepted,Multifamily,Fremont,27-03-2020,3662600
+AP100222,Craft Kathy,Demolition,Application Rejected,Industrial,Fremont,03-04-2020,875816
+AP100223,Bartolomew Craig,Construction,Application Accepted,Single Family/Duplex,West Seattle,10-04-2020,8813313
+AP100224,Johnson Richard,Demolition,Application Rejected,Single Family/Duplex,South Lake Union,17-04-2020,2076793
+AP100225,Johnson Richard,Demolition,Application Rejected,Industrial,West Seattle,24-04-2020,604594
+AP100226,Omark John,Demolition,Application Rejected,Multifamily,Ballard,01-05-2020,8586326
+AP100227,Johnson Richard,Repair,Application Accepted,Commercial,Downtown,08-05-2020,3554473
+AP100228,Johnson Richard,Construction,Application Rejected,Multifamily,Queen Anne,15-05-2020,7349695
+AP100229,Chen Wei,Demolition,Application Pending,Institutional,West Seattle,22-05-2020,2254664
+AP100230,Bengl Andy,Repair,Application Accepted,Multifamily,South Lake Union,29-05-2020,4391747
+AP100231,Johnson Richard,Renovation,Application Pending,Commercial,Downtown,05-06-2020,9957771
+AP100232,Patterson-Ohare Jodi,Renovation,Application Pending,Single Family/Duplex,Queen Anne,12-06-2020,736976
+AP100233,Bengl Andy,Demolition,Application Rejected,Multifamily,Downtown,19-06-2020,2522189
+AP100234,Patterson-Ohare Jodi,Construction,Application Rejected,Industrial,Queen Anne,26-06-2020,8556404
+AP100235,Patterson-Ohare Jodi,Demolition,Application Accepted,Commercial,Downtown,03-07-2020,1291082
+AP100236,Bartolomew Craig,Renovation,Application Accepted,Single Family/Duplex,West Seattle,10-07-2020,5234502
+AP100237,Smith Laura,Construction,Application Pending,Commercial,Ballard,17-07-2020,6611000
+AP100238,Patterson-Ohare Jodi,Construction,Application Rejected,Industrial,Fremont,24-07-2020,6721458
+AP100239,Bartolomew Craig,Renovation,Application Pending,Institutional,Queen Anne,31-07-2020,4942306
+AP100240,Johnson Richard,Repair,Application Rejected,Commercial,Fremont,07-08-2020,3724515
+AP100241,Patterson-Ohare Jodi,Repair,Application Pending,Commercial,Queen Anne,14-08-2020,1629159
+AP100242,Smith Laura,Demolition,Application Rejected,Multifamily,South Lake Union,21-08-2020,9345925
+AP100243,Omark John,Construction,Application Accepted,Industrial,South Lake Union,28-08-2020,4565488
+AP100244,Craft Kathy,Demolition,Application Accepted,Industrial,Queen Anne,04-09-2020,6091495
+AP100245,Bartolomew Craig,Construction,Application Rejected,Institutional,Ballard,11-09-2020,9106842
+AP100246,Omark John,Renovation,Application Pending,Industrial,Downtown,18-09-2020,8817088
+AP100247,Bartolomew Craig,Construction,Application Accepted,Commercial,Queen Anne,25-09-2020,6374167
+AP100248,Craft Kathy,Construction,Application Rejected,Institutional,Downtown,02-10-2020,841971
+AP100249,Smith Laura,Renovation,Application Rejected,Industrial,Ballard,09-10-2020,551157
+AP100250,Bengl Andy,Repair,Application Pending,Institutional,Capitol Hill,16-10-2020,4428727
+AP100251,Craft Kathy,Renovation,Application Rejected,Industrial,West Seattle,23-10-2020,4174499
+AP100252,Chen Wei,Construction,Application Accepted,Industrial,Fremont,30-10-2020,5996594
+AP100253,Omark John,Renovation,Application Accepted,Multifamily,Queen Anne,06-11-2020,5156799
+AP100254,Patterson-Ohare Jodi,Construction,Application Pending,Industrial,West Seattle,13-11-2020,4377576
+AP100255,Johnson Richard,Repair,Application Pending,Institutional,South Lake Union,20-11-2020,5012140
+AP100256,Chen Wei,Repair,Application Accepted,Commercial,Ballard,27-11-2020,2849487
+AP100257,Patterson-Ohare Jodi,Construction,Application Pending,Multifamily,Downtown,04-12-2020,2954941
+AP100258,Patterson-Ohare Jodi,Repair,Application Accepted,Industrial,Queen Anne,11-12-2020,8033441
+AP100259,Bartolomew Craig,Renovation,Application Rejected,Industrial,West Seattle,18-12-2020,5370385
+AP100260,Craft Kathy,Repair,Application Pending,Institutional,Downtown,25-12-2020,2150021
+AP100261,Bengl Andy,Demolition,Application Accepted,Multifamily,Capitol Hill,01-01-2021,9799436
+AP100262,Omark John,Repair,Application Pending,Industrial,Queen Anne,08-01-2021,6978040
+AP100263,Patterson-Ohare Jodi,Demolition,Application Rejected,Commercial,Fremont,15-01-2021,668467
+AP100264,Bartolomew Craig,Renovation,Application Accepted,Commercial,Queen Anne,22-01-2021,5383152
+AP100265,Omark John,Repair,Application Accepted,Industrial,Fremont,29-01-2021,7378141
+AP100266,Craft Kathy,Repair,Application Accepted,Commercial,Downtown,05-02-2021,5122148
+AP100267,Bengl Andy,Repair,Application Rejected,Multifamily,Queen Anne,12-02-2021,1757923
+AP100268,Chen Wei,Renovation,Application Accepted,Industrial,West Seattle,19-02-2021,5184207
+AP100269,Craft Kathy,Renovation,Application Pending,Institutional,Ballard,26-02-2021,8566999
+AP100270,Johnson Richard,Demolition,Application Accepted,Multifamily,South Lake Union,05-03-2021,6780886
+AP100271,Craft Kathy,Construction,Application Rejected,Commercial,Ballard,12-03-2021,9455634
+AP100272,Patterson-Ohare Jodi,Renovation,Application Pending,Industrial,Capitol Hill,19-03-2021,5903584
+AP100273,Bengl Andy,Repair,Application Rejected,Multifamily,Ballard,26-03-2021,8220528
+AP100274,Craft Kathy,Demolition,Application Pending,Commercial,West Seattle,02-04-2021,4351754
+AP100275,Patterson-Ohare Jodi,Repair,Application Pending,Industrial,Capitol Hill,09-04-2021,2319042
+AP100276,Patterson-Ohare Jodi,Repair,Application Rejected,Single Family/Duplex,Downtown,16-04-2021,2033509
+AP100277,Bengl Andy,Renovation,Application Rejected,Institutional,Fremont,23-04-2021,7790141
+AP100278,Craft Kathy,Construction,Application Rejected,Commercial,South Lake Union,30-04-2021,166381
+AP100279,Craft Kathy,Repair,Application Rejected,Commercial,Downtown,07-05-2021,1571701
+AP100280,Bartolomew Craig,Renovation,Application Accepted,Single Family/Duplex,Fremont,14-05-2021,6155525
+AP100281,Omark John,Demolition,Application Rejected,Single Family/Duplex,Fremont,21-05-2021,9637994
+AP100282,Bartolomew Craig,Repair,Application Pending,Multifamily,Capitol Hill,28-05-2021,3488618
+AP100283,Craft Kathy,Demolition,Application Accepted,Institutional,West Seattle,04-06-2021,7963697
+AP100284,Chen Wei,Renovation,Application Rejected,Institutional,Ballard,11-06-2021,2507184
+AP100285,Craft Kathy,Renovation,Application Accepted,Commercial,Ballard,18-06-2021,4153022
+AP100286,Johnson Richard,Renovation,Application Pending,Single Family/Duplex,South Lake Union,25-06-2021,1468175
+AP100287,Patterson-Ohare Jodi,Renovation,Application Pending,Institutional,West Seattle,02-07-2021,3856688
+AP100288,Smith Laura,Renovation,Application Pending,Industrial,South Lake Union,09-07-2021,7315795
+AP100289,Craft Kathy,Construction,Application Accepted,Institutional,West Seattle,16-07-2021,3822962
+AP100290,Johnson Richard,Demolition,Application Accepted,Commercial,Capitol Hill,23-07-2021,4091776
+AP100291,Johnson Richard,Construction,Application Rejected,Institutional,Capitol Hill,30-07-2021,2777423
+AP100292,Omark John,Demolition,Application Rejected,Multifamily,Downtown,06-08-2021,5759840
+AP100293,Bengl Andy,Repair,Application Rejected,Single Family/Duplex,Capitol Hill,13-08-2021,5180397
+AP100294,Craft Kathy,Repair,Application Pending,Commercial,Ballard,20-08-2021,3501356
+AP100295,Bengl Andy,Demolition,Application Rejected,Commercial,Capitol Hill,27-08-2021,9570173
+AP100296,Chen Wei,Repair,Application Accepted,Single Family/Duplex,Capitol Hill,03-09-2021,3494084
+AP100297,Smith Laura,Repair,Application Rejected,Single Family/Duplex,Fremont,10-09-2021,2977109
+AP100298,Johnson Richard,Repair,Application Pending,Single Family/Duplex,Capitol Hill,17-09-2021,7029451
+AP100299,Patterson-Ohare Jodi,Construction,Application Rejected,Commercial,West Seattle,24-09-2021,8569981
